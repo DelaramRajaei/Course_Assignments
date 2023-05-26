@@ -4,7 +4,8 @@ Welcome to the Course Assignments Repository! This repository contains the assig
 
 ## Courses
 
-- [Course 1](course1/): This folder contains the assignments for Course 1. You can find detailed instructions and any associated files inside.
+- [Neural Networks and Deep Learn](https://github.com/DelaramRajaei/Course_Assignments/tree/8601aac7123eb4f906d3e174844bde892bc10b79/Neural_Networks_and_Deep_Learn): 
+  - Assignment 1:    
 - [Course 2](course2/): Here, you will find the assignments for Course 2. Please refer to the folder for specific assignment details and materials.
 - [Course 3](course3/): The assignments for Course 3 can be found in this folder. Make sure to review the instructions and any additional resources provided.
 
