@@ -7,7 +7,7 @@ Welcome to the Course Assignments Repository! This repository contains the assig
 - [Neural Networks and Deep Learn](Neural_Networks_and_Deep_Learn/): 
   - Assignment 1: [colab](https://colab.research.google.com/drive/1LN_cocSSjqEcoB36Hog4ldco5WZ6OWdo)   
 - [Statistical Learning](Statistical_Learning/): Here, you will find the assignments for Course 2. Please refer to the folder for specific assignment details and materials.
-  - Assignment 1: [colab](https://colab.research.google.com/drive/1LN_cocSSjqEcoB36Hog4ldco5WZ6OWdo)
+  - Assignment 1: [colab](https://colab.research.google.com/drive/1tJo-Gdg3aBkdcf6q6BHcLYiA65tBjUKh#scrollTo=_MGodXL8IgAm)
 
 ## Assignment Links
 
