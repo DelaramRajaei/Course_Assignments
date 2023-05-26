@@ -9,10 +9,4 @@ Welcome to the Course Assignments Repository! This repository contains the assig
 - [Statistical Learning](Statistical_Learning/): Here, you will find the assignments for Course 2. Please refer to the folder for specific assignment details and materials.
   - Assignment 1: [colab](https://colab.research.google.com/drive/1tJo-Gdg3aBkdcf6q6BHcLYiA65tBjUKh#scrollTo=_MGodXL8IgAm)
 
-## Assignment Links
-
-- [Assignment 1](course1/assignment1.md): Link to Assignment 1 for Course 1.
-- [Assignment 2](course2/assignment2.md): Link to Assignment 2 for Course 2.
-- [Assignment 3](course3/assignment3.md): Link to Assignment 3 for Course 3.
-
 Feel free to navigate through the folders and access the assignments by clicking on the respective links. Good luck with your studies!
