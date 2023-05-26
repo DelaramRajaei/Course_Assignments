@@ -5,9 +5,9 @@ Welcome to the Course Assignments Repository! This repository contains the assig
 ## Courses
 
 - [Neural Networks and Deep Learn](https://github.com/DelaramRajaei/Course_Assignments/tree/8601aac7123eb4f906d3e174844bde892bc10b79/Neural_Networks_and_Deep_Learn): 
-  - Assignment 1:    
+  - Assignment 1: [colab](https://colab.research.google.com/drive/1LN_cocSSjqEcoB36Hog4ldco5WZ6OWdo)   
 - [Course 2](course2/): Here, you will find the assignments for Course 2. Please refer to the folder for specific assignment details and materials.
-- [Course 3](course3/): The assignments for Course 3 can be found in this folder. Make sure to review the instructions and any additional resources provided.
+  - Assignment 1: [colab](https://colab.research.google.com/drive/1LN_cocSSjqEcoB36Hog4ldco5WZ6OWdo)   
 
 ## Assignment Links
 
